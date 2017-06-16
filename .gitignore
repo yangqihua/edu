@@ -1,0 +1,7 @@
+
+.DS_Store
+.idea/
+plugins/
+vendor/
+vendor_user/
+README.html
