@@ -5,3 +5,7 @@ plugins/
 vendor/
 vendor_user/
 README.html
+app/data/
+app/cache/
+app/logs/
+app/config/
